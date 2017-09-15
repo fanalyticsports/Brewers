@@ -4,7 +4,10 @@
 
 *In this case it's called gambling for a reason so she may choose to do what she wants but we can calculate her odds and probability based on a few assumptions listed out below. Her best chance to win is to hit in this situation assuming she has a soft 18, playing with a shuffling machine, and a 4 deck machine.*  
 
-###Assumptions 
+Assumptions 
+
+* Soft 18 (Ace, 7) 
+* 
 
 
 
