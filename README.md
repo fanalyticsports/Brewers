@@ -28,7 +28,7 @@ Assumptions
 
 *The above BA and OBP refelct the players 2016 statistics against a righty. Now I'd want to compare a variety of things here from sample size, player, type of pitcher Mark Melancon is, to even a prediction of how well these players would do. But my optoins are a few do I pitch run? With Villar on third even though he's a young guy we'll assume he's got good baserunning instincts and his speed is fine and not an issue. Thought with two outs this isn't the biggest thing we need. We need base-runners or a hit, so that the next option is who should we have at the plate. Chris Carter is currently up and vs. a right hand pticher he has the lowest BA out of the three and second highest OBP. Noticing Kirk Nieuwenheis on the bench and that lefties tend to hit better off Mark M and also the fact that Kirk has the higest OBP we choose to go with Kirk. I did note that Hernan Perez does have a better BA than him but Kirk's OBP is much higher and I like our odds to get a man on and then decide what to do next. As far as best opportunity to win the game in this at-bat, from a sheer average standpoint I go with Hernan Perez as his average against right hand pitching is the highest of all three. Now there are a ton of other variables to take into account and area we could look in but at a quick high level that would be my decision. Let's hope for a win.*   
 
-Stats from: (http://www.espn.com/mlb/player/splits/)
+Stats from: (http://www.espn.com/mlb/player)
 
 
 
