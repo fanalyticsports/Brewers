@@ -12,6 +12,8 @@ Assumptions
 * Dealers has a Face Card Up 
 * Both Players Bust over 21   
 
+Play Blackjack with this Python Simulator, enjoy! https://github.com/fanalyticsports/Brewers/blob/master/Blackjack/Blackjack_Game_Simulator.py
+
 2. A genie has given you a very useful and practical skill- you are able to determine the exact "true talent" level of the Major League team that employs you. On Opening Day, you determine that your team's true talent is that of an 86 win team. Based on this determination, your GM asks you for a range of win totals that you are 95% confident your team will fall into the coming coming season. How would you go about finding this range, and what would yoru answer be? (Assume no inujries or other change of talent, and that your team's "true talent" winning percentage remains constant for all 162 games.)  
 
 *I would approach this by using a 95% confidence interval to determine how accurate my "True Talent" really is at predicting games and how many of those would fall within that interval. From a random sample of data we can determine the win/loss ratio and we can the 95% confidence interval to come up with a range in which we'd accept our prediction as accurate or not. If it fall's within this area we would indicate that we are 95% confident that the means for the entire population fall within this range. For a model on predicting the win/loss I've seen numerous methods from Mutiple Regression, Logistic Regression, to Factor Analysis used which will help in providing a predictive model. In fairness most models I've built through work at Kohl's or at Associated Bank "
