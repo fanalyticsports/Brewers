@@ -1,7 +1,8 @@
 # Brewers 
 
 Below are the answers to the following questions with example pictures, code, and snippets. Enjoy! (Answers are italicized.) 
-Author:Shawn Gerou
+
+Author: Shawn Gerou
 
 1. Your friend is playing blackjack at a casino, and hits on 18. The next card is a 3, and your friend wins $500. The next night, the same situation comes up again, and your friend asks for your advice on whether to hit or stick. What would you tell her?  
 
