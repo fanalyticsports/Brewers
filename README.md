@@ -5,8 +5,6 @@
 **In this case it's called gambling for a reason so she may choose to do what she wants but we can calculate her odds and probability based on a few assumptions listed out below. 
 
 
-2.
-
 
 
 
